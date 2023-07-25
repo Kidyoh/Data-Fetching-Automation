@@ -1,0 +1,503 @@
+ï»¿<?xml version="1.0" encoding="utf-8"?>
+<wb:data page="1" pages="2" per_page="50" total="63" sourceid="2" lastupdated="2023-06-29" xmlns:wb="http://www.worldbank.org">
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2022</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2021</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>35.9595321260992</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>36.9343868186237</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2018</wb:date>
+    <wb:value>40.7714045742338</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2017</wb:date>
+    <wb:value>38.7511065245016</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2016</wb:date>
+    <wb:value>40.0039535287926</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2015</wb:date>
+    <wb:value>37.8740436679179</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2014</wb:date>
+    <wb:value>37.8261610490577</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2013</wb:date>
+    <wb:value>42.2990480580491</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2012</wb:date>
+    <wb:value>24.2593373486815</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2011</wb:date>
+    <wb:value>18.0830805024926</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2010</wb:date>
+    <wb:value>21.3308252760778</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2009</wb:date>
+    <wb:value>20.652857860976</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2008</wb:date>
+    <wb:value>21.4271647152861</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2007</wb:date>
+    <wb:value>20.8154123446687</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2006</wb:date>
+    <wb:value>22.7584450635758</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2005</wb:date>
+    <wb:value>24.1138421100088</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2004</wb:date>
+    <wb:value>20.8650877249502</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2003</wb:date>
+    <wb:value>42.0820299478238</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2002</wb:date>
+    <wb:value>27.469870075762</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2001</wb:date>
+    <wb:value>59.1916227919287</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2000</wb:date>
+    <wb:value>28.2901507264609</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1999</wb:date>
+    <wb:value>22.0828120645895</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1998</wb:date>
+    <wb:value>18.9842959881907</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1997</wb:date>
+    <wb:value>19.5084160072644</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1996</wb:date>
+    <wb:value>20.8104411557668</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1995</wb:date>
+    <wb:value>21.0044795903258</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1994</wb:date>
+    <wb:value>19.75559646859</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1993</wb:date>
+    <wb:value>22.2028353326063</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1992</wb:date>
+    <wb:value>29.7420710772063</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1991</wb:date>
+    <wb:value>11.3028122589443</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1990</wb:date>
+    <wb:value>22.3231372175787</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1989</wb:date>
+    <wb:value>13.1359375136514</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1988</wb:date>
+    <wb:value>12.249199003204</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1987</wb:date>
+    <wb:value>16.6854152335478</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1986</wb:date>
+    <wb:value>9.5104302984538</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1985</wb:date>
+    <wb:value>9.51043029789854</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1984</wb:date>
+    <wb:value>12.3791978304721</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1983</wb:date>
+    <wb:value>13.7224173914335</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1982</wb:date>
+    <wb:value>17.3296126261034</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1981</wb:date>
+    <wb:value>17.1234989281244</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1980</wb:date>
+    <wb:value>20.3142216739026</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1979</wb:date>
+    <wb:value>15.545143683043</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1978</wb:date>
+    <wb:value>12.9245766892411</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1977</wb:date>
+    <wb:value>15.6222301676246</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1976</wb:date>
+    <wb:value>21.0286845412503</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1975</wb:date>
+    <wb:value>34.1421035525888</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1974</wb:date>
+    <wb:value>23.0124628813102</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.MRCH.AL.ZS">Merchandise exports to economies in the Arab World (% of total merchandise exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1973</wb:date>
+    <wb:value>16.9857365955232</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+</wb:data>

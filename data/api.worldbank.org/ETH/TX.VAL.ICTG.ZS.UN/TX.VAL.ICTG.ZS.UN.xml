@@ -1,0 +1,503 @@
+ï»¿<?xml version="1.0" encoding="utf-8"?>
+<wb:data page="1" pages="2" per_page="50" total="63" sourceid="2" lastupdated="2023-06-29" xmlns:wb="http://www.worldbank.org">
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2022</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2021</wb:date>
+    <wb:value>0.7093517308</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>1.2587761674</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>1.4223774289</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2018</wb:date>
+    <wb:value>2.423312308</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2017</wb:date>
+    <wb:value>2.6492185748</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2016</wb:date>
+    <wb:value>1.2559987534</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2015</wb:date>
+    <wb:value>0.5388442507</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2014</wb:date>
+    <wb:value>0.4126381069</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2013</wb:date>
+    <wb:value>0.1823119924</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2012</wb:date>
+    <wb:value>0.2368338971</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2011</wb:date>
+    <wb:value>0.2023744137</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2010</wb:date>
+    <wb:value>0.2544758599</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2009</wb:date>
+    <wb:value>0.6718424115</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2008</wb:date>
+    <wb:value>0.827661267</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2007</wb:date>
+    <wb:value>0.5676373733</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2006</wb:date>
+    <wb:value>0.0606144362</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2005</wb:date>
+    <wb:value>0.0736445028</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2004</wb:date>
+    <wb:value>0.0282294642</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2003</wb:date>
+    <wb:value>0.0048050789</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2002</wb:date>
+    <wb:value>0.0021320841</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2001</wb:date>
+    <wb:value>0.0096701413</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2000</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1999</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1998</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1997</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1996</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1995</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1994</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1993</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1992</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1991</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1990</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1989</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1988</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1987</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1986</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1985</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1984</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1983</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1982</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1981</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1980</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1979</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1978</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1977</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1976</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1975</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1974</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="TX.VAL.ICTG.ZS.UN">ICT goods exports (% of total goods exports)</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1973</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>1</wb:decimal>
+  </wb:data>
+</wb:data>

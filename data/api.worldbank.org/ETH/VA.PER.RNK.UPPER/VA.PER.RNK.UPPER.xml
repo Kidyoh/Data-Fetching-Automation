@@ -1,0 +1,503 @@
+ï»¿<?xml version="1.0" encoding="utf-8"?>
+<wb:data page="1" pages="2" per_page="50" total="63" sourceid="2" lastupdated="2023-06-29" xmlns:wb="http://www.worldbank.org">
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2022</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2021</wb:date>
+    <wb:value>23.1884059906006</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2020</wb:date>
+    <wb:value>24.6376819610596</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value>22.2222213745117</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2018</wb:date>
+    <wb:value>21.7391300201416</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2017</wb:date>
+    <wb:value>13.7931032180786</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2016</wb:date>
+    <wb:value>13.7931032180786</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2015</wb:date>
+    <wb:value>19.2118225097656</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2014</wb:date>
+    <wb:value>19.2118225097656</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2013</wb:date>
+    <wb:value>15.023473739624</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2012</wb:date>
+    <wb:value>15.4929580688477</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2011</wb:date>
+    <wb:value>13.6150236129761</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2010</wb:date>
+    <wb:value>13.7440757751465</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2009</wb:date>
+    <wb:value>14.6919431686401</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2008</wb:date>
+    <wb:value>15.384614944458</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2007</wb:date>
+    <wb:value>19.7115383148193</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2006</wb:date>
+    <wb:value>19.7115383148193</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2005</wb:date>
+    <wb:value>19.230770111084</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2004</wb:date>
+    <wb:value>21.634614944458</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2003</wb:date>
+    <wb:value>23.8805961608887</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2002</wb:date>
+    <wb:value>20.3980102539063</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2001</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>2000</wb:date>
+    <wb:value>28.3582096099854</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1999</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1998</wb:date>
+    <wb:value>31.343282699585</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1997</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1996</wb:date>
+    <wb:value>25</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1995</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1994</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1993</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1992</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1991</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1990</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1989</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1988</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1987</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1986</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1985</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1984</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1983</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1982</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1981</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1980</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1979</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1978</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1977</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1976</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1975</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1974</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="VA.PER.RNK.UPPER">Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval</wb:indicator>
+    <wb:country id="ET">Ethiopia</wb:country>
+    <wb:countryiso3code>ETH</wb:countryiso3code>
+    <wb:date>1973</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+</wb:data>
