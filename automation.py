@@ -7,6 +7,7 @@ from aspose.cells import Workbook
 import re
 
 
+
 # Read Excel file
 df = pd.read_excel('indicators.xlsx')
 
