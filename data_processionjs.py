@@ -12,11 +12,11 @@ url = input("Enter API URL: ")
 parsed = urllib.parse.urlparse(url)
 params = urllib.parse.parse_qs(urllib.parse.urlparse(url).query)
 
-country = params['country'][0]
+country = params.get('country', 'unknown')[0]
 source = parsed.hostname # worldbank.org
 datapoint = parsed.path.split('/')[-1] # population
 
-root_dir = 'new'
+root_dir = 'data'
 source_dir = os.path.join(root_dir, source)
 country_dir = os.path.join(source_dir, country)
 datapoint_dir = os.path.join(country_dir, datapoint) 
