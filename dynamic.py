@@ -4,7 +4,6 @@ import pandas as pd
 import urllib.parse
 import xml.parsers.expat
 import xmltodict
-from aspose.cells import Workbook
 import json
 
 # Function to remove characters before the <?xml version declaration
@@ -32,24 +31,14 @@ def save_xml_data(xml_file, xml_data):
     with open(xml_file, "w", encoding="utf-8") as f:
         f.write(xml_data)
 
-def flatten(d, parent_key=''):
+def flatten_nested(d, parent_key='', sep='_'):
     items = []
-    if isinstance(d, dict):
-        for k, v in d.items():
-            new_key = f"{parent_key}_{k}" if parent_key else k
-            if isinstance(v, dict):
-                items.extend(flatten(v, new_key).items())
-            else:
-                v = [v]  # convert to list
-                items.append((new_key, v))
-    elif isinstance(d, list):
-        for i, v in enumerate(d):
-            new_key = f"{parent_key}_{i}"
-            if isinstance(v, dict):
-                items.extend(flatten(v, new_key).items())
-            else:
-                v = [v]  # convert to list
-                items.append((new_key, v))
+    for k, v in d.items():
+        new_key = f"{parent_key}{sep}{k}" if parent_key else k
+        if isinstance(v, dict):
+            items.extend(flatten_nested(v, new_key, sep).items())
+        else:
+            items.append((new_key, v))
     return dict(items)
 
 if __name__ == "__main__":
@@ -71,18 +60,20 @@ if __name__ == "__main__":
     response = requests.get(url)
 
     if response.status_code == 200:
-        if "application/json" in response.headers.get("content-type", ""):
+        content_type = response.headers.get("content-type", "")
+        if "application/json" in content_type:
             data = response.json()
             with open(os.path.join(datapoint_dir, 'data.json'), 'w') as f:
                 json.dump(data, f)
 
             # Flatten data and create DataFrame
             if isinstance(data, dict):
-                flat_data = flatten(data)
+                flat_data = flatten_nested(data)
             else:
-                flat_data = flatten({"data": data})
+                flat_data = flatten_nested({"data": data})
 
-            df_flat = pd.DataFrame.from_dict(flat_data)
+            # Create DataFrame with each attribute-value pair in a separate row
+            df_flat = pd.DataFrame(flat_data.items(), columns=['Attribute', 'Value'])
 
             # Save the flattened data to an Excel file
             file_path_flat = os.path.join(datapoint_dir, f"{datapoint}_flat.xlsx")
@@ -90,7 +81,7 @@ if __name__ == "__main__":
 
             print("Flattened data saved to", file_path_flat)
 
-        elif "application/xml" in response.headers.get("content-type", ""):
+        elif "application/xml" in content_type:
             xml_data = response.text
             # Remove characters before <?xml version declaration
             xml_data_cleaned = remove_invalid_characters(xml_data)
@@ -112,12 +103,14 @@ if __name__ == "__main__":
                     # Create DataFrame from JSON data
                     df_json = pd.read_json(json_data)
 
-                    # Save the JSON data to an Excel file
+                    # Flatten data and create DataFrame with each attribute-value pair in a separate row
+                    flat_data = flatten_nested(df_json)
+                    df_flat = pd.DataFrame(flat_data.items(), columns=['Attribute', 'Value'])
+
+                    # Save the flattened JSON data to an Excel file
                     file_path_excel = os.path.join(datapoint_dir, f"{datapoint}_cleaned.xlsx")
-                    df_json.to_excel(file_path_excel, index=False)
+                    df_flat.to_excel(file_path_excel, index=False)
 
                     print(f'Cleaned JSON data saved to {file_path_excel}')
         else:
             print("Unsupported content type. Only JSON and XML are supported.")
-
- 
