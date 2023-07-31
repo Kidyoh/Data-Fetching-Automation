@@ -4,7 +4,30 @@ import os
 import requests
 import json, time
 import pandas as pd
+import xmltodict
+import zipfile
 
+
+def remove_invalid_characters(xml_data):
+    xml_declaration = '<?xml version'
+    start_index = xml_data.find(xml_declaration)
+    if start_index != -1:
+        cleaned_data = xml_data[start_index:]
+        return cleaned_data
+    else:
+        print("Invalid XML data format.")
+        return None
+
+def save_xml_data(xml_file, xml_data):
+    with open(xml_file, "w", encoding="utf-8") as f:
+        f.write(xml_data)
+
+def xml_to_json(xml_data):
+    return xmltodict.parse(xml_data)
+
+def save_json_data(json_file, json_data):
+    with open(json_file, "w", encoding="utf-8") as f:
+        json.dump(json_data, f, indent=4)
 
 def create_datapoint_dir(url):
     parsed = urllib.parse.urlparse(url)
@@ -29,7 +52,16 @@ def fetch_data_with_retry(url, max_retries=5, retry_delay=1):
     while retry_count < max_retries:
         response = requests.get(url)
         if response.status_code == 200:
-            return response.json()
+            content_type = response.headers.get("content-type", "")
+            if "json" in content_type:
+                return response.json()
+            elif "xml" in content_type:
+                xml_data = response.text
+                json_data = xmltodict.parse(xml_data)
+                return json_data
+            else:
+                print("Unsupported content type. Only JSON and XML responses are supported.")
+                return None
         elif response.status_code == 429:
             retry_count += 1
             print(f"Rate limit exceeded. Retry attempt {retry_count} in {retry_delay} second.")
@@ -41,11 +73,7 @@ def fetch_data_with_retry(url, max_retries=5, retry_delay=1):
     print(f"Max retries reached. Unable to fetch data from the API.")
     return None
 
-#https://api.worldbank.org/pip/v1/pip?country=ETH&povline=1.9&fill_gaps=false
-# Fetch data from API with retry handling
-# data = fetch_data_with_retry(url)
-# if data is None:
-#     exit()
+
 
 def dumb_data_to_json(datapoint_dir, data):
     with open(os.path.join(datapoint_dir, 'data.json'), 'w') as f:
@@ -111,15 +139,12 @@ def convert_to_excel(datapoint_dir,datapoint_name, country, data, flatten):
 
 
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='.')
+
 
 @app.route('/', methods=['GET'])
-
-# def home_page():
-
-#     data_set = {datapoint: data, 'Timestamp': time.time()}
-#     json_data = json.dumps(data_set)
-#     return json_data
+def index():
+    return render_template('index.html')
 
 @app.route('/requests/', methods=['GET'])
 def requests_page():
@@ -148,10 +173,9 @@ def requests_page():
     # convert to excel
     convert_to_excel(datapoint_dir,datapoint_name, country, data, flat_data)
 
-
-    # data_set = {datapoint: data, 'Timestamp': time.time()}
     json_data = json.dumps(data)
-    print("Files created at" + datapoint_dir)
+    return  datapoint_dir
+
 
 if __name__ == '__main__':
     app.run(port=7777)
