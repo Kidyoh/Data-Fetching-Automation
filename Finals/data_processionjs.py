@@ -83,8 +83,8 @@ else:
     dfs_by_country[country] = df
 
 # Save each DataFrame to a separate sheet in the Excel file
-with pd.ExcelWriter(os.path.join(datapoint_dir, f"{datapoint}_by_country.xlsx")) as writer:
+with pd.ExcelWriter(os.path.join(datapoint_dir, f"{datapoint}_of_{country}.xlsx")) as writer:
     for country_code, df in dfs_by_country.items():
         df.to_excel(writer, sheet_name=country_code, index=False)
 
-print("Data saved by country to", os.path.join(datapoint_dir, f"{datapoint}_by_country.xlsx"))
+print("Data saved by country to", os.path.join(datapoint_dir, f"{datapoint}_of_{country}.xlsx"))

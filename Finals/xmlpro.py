@@ -5,6 +5,7 @@ import urllib.parse
 import xml.parsers.expat
 import xmltodict
 from aspose.cells import Workbook
+from openpyxl import Workbook
 
 # Function to remove characters before the <?xml version declaration
 def remove_invalid_characters(xml_data):
@@ -60,3 +61,4 @@ if __name__ == "__main__":
 
     else:
         print("Failed to fetch data from the API.")
+
