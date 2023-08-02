@@ -47,7 +47,7 @@ def create_datapoint_dir(url):
     return datapoint_dir, country, datapoint_name
 
 
-def fetch_data_with_retry(url, max_retries=5, retry_delay=1):
+def fetch_data_with_retry(url, max_retries=5, retry_delay=1, datapoint_dir=None):
     retry_count = 0
     while retry_count < max_retries:
         response = requests.get(url)
@@ -57,7 +57,9 @@ def fetch_data_with_retry(url, max_retries=5, retry_delay=1):
                 return response.json()
             elif "xml" in content_type:
                 xml_data = response.text
-                json_data = xmltodict.parse(xml_data)
+                remove_invalid_characters(xml_data)
+                save_xml_data(os.path.join(datapoint_dir, 'data.xml'), xml_data)
+                json_data = xml_to_json(xml_data)
                 return json_data
             else:
                 print("Unsupported content type. Only JSON and XML responses are supported.")
@@ -173,8 +175,7 @@ def requests_page():
     # convert to excel
     convert_to_excel(datapoint_dir,datapoint_name, country, data, flat_data)
 
-    json_data = json.dumps(data)
-    return  datapoint_dir
+    return datapoint_dir
 
 
 if __name__ == '__main__':
