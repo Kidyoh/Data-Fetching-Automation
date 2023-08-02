@@ -22,6 +22,10 @@ def save_xml_data(xml_file, xml_data):
     with open(xml_file, "w", encoding="utf-8") as f:
         f.write(xml_data)
 
+
+def xml_to_json(xml_data):
+    return xmltodict.parse(xml_data)
+
 if __name__ == "__main__":
     url = input("Enter API URL: ")
 
@@ -45,6 +49,8 @@ if __name__ == "__main__":
         xml_data_cleaned = remove_invalid_characters(xml_data)
         if xml_data_cleaned:
                 # Save the cleaned XML data to the file (ensure well-formed XML)
+                xml_to_json(xml_data_cleaned)
+                json_file = os.path.join(datapoint_dir, f'{datapoint}.json')
                 xml_file = os.path.join(datapoint_dir, f'{datapoint}.xml')
                 save_xml_data(xml_file, xml_data_cleaned)
 
