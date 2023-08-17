@@ -1,0 +1,2573 @@
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.TECH.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/VC.IHR.PSRC.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/VC.IDP.NWDS
+https://api.worldbank.org/v2/countries/ETH/indicators/VA.PER.RNK.UPPER
+https://api.worldbank.org/v2/countries/ETH/indicators/VA.EST
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.TECH.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.WR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.R5.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.R1.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.AL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.ICTG.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.UVI.MRCH.XD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.TRVL.ZS.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.XD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.R6.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.R2.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.CD.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.INSF.ZS.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.AGRI.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.TCOM.SR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.TCOM.BR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MRCH.SR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MRCH.BR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MANF.SR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MANF.BR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.XPND.MP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.TRNX.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.DPRT
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.URB.TOTL
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.RUR.TOTL
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.REG.BRTH.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.TOTL.MA.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.TECH.RD.P6
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.DPND.OL
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.80UP.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.7074.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.65UP.MA.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.6569.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.5559.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.4549.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.3539.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.2529.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1564.TO
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1564.FE.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1014.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0014.TO
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0014.FE.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.M18.2024.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.TO65.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.LE00.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.IMRT.FE.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.CBRT.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SN.ITK.VITA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SN.ITK.DEFC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SM.POP.REFG
+https://api.worldbank.org/v2/countries/ETH/indicators/VC.IHR.PSRC.MA.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/VC.IDP.NWCV
+https://api.worldbank.org/v2/countries/ETH/indicators/VA.PER.RNK.LOWER
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.TRVL.ZS.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.SERV.CD.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.WL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.R4.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.OR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MMTL.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.FUEL.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.QTY.MRCH.XD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.TRAN.ZS.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.WR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.R5.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.R1.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.AL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.ICTG.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.UVI.MRCH.XD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.TCOM.SM.FN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.TCOM.BC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MRCH.SM.FN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MRCH.BC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MANF.SM.FN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MANF.BC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.XPND.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.TRNR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.ARVL
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.URB.GROW
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.REG.DTHS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.REG.BRTH.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.TOTL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.SCIE.RD.P6
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.DPND
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.7579.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.65UP.TO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.65UP.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.6064.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.5054.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.4044.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.3034.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.2024.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1564.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1519.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0509.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0014.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0004.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.M15.2024.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.TO65.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.LE00.FE.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.CONU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.AMRT.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.BUS.NDNS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/HD.HCI.OVRL.UB.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/HD.HCI.OVRL.LB.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/HD.HCI.OVRL
+https://api.worldbank.org/v2/countries/ETH/indicators/GE.PER.RNK.LOWER
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.TRFT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.OTHR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.INTP.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.COMP.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.TOTL.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.INTT.RV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.GSRV.VA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.EXPT.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.REV.SOCL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.NLD.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.LBL.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.AST.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/FX.OWN.TOTL.SO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FX.OWN.TOTL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FS.AST.DOMS.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FR.INR.RINR
+https://api.worldbank.org/v2/countries/ETH/indicators/FP.WPI.TOTL
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.LBL.BMNY.IR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.AST.PRVT.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.AST.CGOV.ZG.M3
+https://api.worldbank.org/v2/countries/ETH/indicators/FI.RES.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/FB.CBK.BRWR.P3
+https://api.worldbank.org/v2/countries/ETH/indicators/FB.AST.NPER.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.H2O.INTR.PC
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.H2O.FWST.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.GDP.FWTL.M3.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/EP.PMP.SGAS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.URB.LCTY.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.POP.EL5M.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.HPT.THRD.NO
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.CO2.MANF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.CLC.GHGR.MT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.PM25.MC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.PM25.MC.M3
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.NOXE.EG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.METH.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.METH.AG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.GHGT.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.SF.KT
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.LF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.GF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.USE.ELEC.KH.PC
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.USE.COMM.CL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.FEC.RNEW.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.PETR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.HYRO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.ACCS.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.CFT.ACCS.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.DPPG.XP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.DIMF.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.ODAT.XP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.ODAT.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.OATL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.ISLL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.GBRL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.DNKL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.CECL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.AUSL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/CM.MKT.LDOM.NO
+https://api.worldbank.org/v2/countries/ETH/indicators/CC.STD.ERR
+https://api.worldbank.org/v2/countries/ETH/indicators/CC.NO.SRC
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.TRF.PWKR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.KLT.DINV.CD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.ROYL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.GNFS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.CCIS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.TRF.CURR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.KAC.EOMS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.FIN.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.TRF.PRVT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.TRAN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.MRCH.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.CMCP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.PRD.LVSK.XD
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.TRAC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.PRCP.MM
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.EL5M.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.EL5M.RU.K2
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.ARBL.HA.PC
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.CON.FERT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/VC.IHR.PSRC.FE.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/VC.BTL.DETH
+https://api.worldbank.org/v2/countries/ETH/indicators/VA.PER.RNK
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.TRAN.ZS.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.OTHR.ZS.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.RS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.R3.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.HI.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MANF.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.FOOD.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.MNF.TECH.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.SERV.CD.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.WL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.R4.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.OR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MMTL.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.FUEL.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.TCOM.WM.FN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.TCOM.SM.AR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MRCH.WM.FN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MRCH.SM.AR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MANF.WM.FN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MANF.SM.AR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.QTY.MRCH.XD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.TVLX.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.RCPT.XP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.UWT.TFRT
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.RUR.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.REG.BRTH.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.REG.BRTH.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.TOTL.FE.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.GROW
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.BRTH.MF
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.7579.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.65UP.TO
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.65UP.FE.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.6064.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.5054.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.4044.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.3034.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.2024.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1564.MA.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1519.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0509.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0014.MA.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0004.FE.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.HOU.FEMA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.TFRT.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.IMRT.MA.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.CONM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.AMRT.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.BASS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.ANVC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.SGR.PROC.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.PRV.SMOK.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MMR.RISK
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MLR.INCD.P3
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MED.CMHW.P3
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.IMM.HEPB
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.INCD.YG
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.INCD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.0014
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.H2O.BASW.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.NMRT
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.MORT.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.AIDS.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.0509
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.INJR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.1519
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.CON.1524.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.ALC.PCAP.MA.LI
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.VAW.REAS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.VAW.ARGU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.LAW.INDX
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.TOTL.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.SECO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.CTOT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.TCHR.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.ENRL.TC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.MS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.DO.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.BA.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCHR.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCAQ.UP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCAQ.LO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.PROG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.NENR.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRR.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRL.UP.TC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRL.GC
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CUAT.UP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CUAT.PO.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CUAT.LO.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.AGES
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.UNER.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.TENR.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.TCAQ.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.REPT.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.PRSL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.PRIV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.NINT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.NENR.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.GINT.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.ENRL.TC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.CUAT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.CMPT.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRE.TCAQ.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRE.ENRR
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ENR.SECO.FM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ADT.LITR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ADT.1524.LT.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/RQ.PER.RNK.UPPER
+https://api.worldbank.org/v2/countries/ETH/indicators/RQ.EST
+https://api.worldbank.org/v2/countries/ETH/indicators/RL.PER.RNK
+https://api.worldbank.org/v2/countries/ETH/indicators/PV.STD.ERR
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.RSB.GNFS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.IMP.GNFS.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.TOTL.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FTOT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FTOT.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.EXP.GNFS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.EXP.GNFS.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.DAB.TOTL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.GOVT.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/MS.MIL.XPND.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/MS.MIL.TOTL.TF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/LP.LPI.TIME.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/LP.LPI.INFR.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IT.NET.USER.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IT.NET.BBND
+https://api.worldbank.org/v2/countries/ETH/indicators/IT.CEL.SETS
+https://api.worldbank.org/v2/countries/ETH/indicators/IS.RRS.PASG.KM
+https://api.worldbank.org/v2/countries/ETH/indicators/IS.AIR.DPRT
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SPI.PIL2
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SCI.PRDC
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.TRAD.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.PUBS.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.PADM.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.GNDR.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.ENVR.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IP.TMK.RSCT
+https://api.worldbank.org/v2/countries/ETH/indicators/IP.JRN.ARTC.SC
+https://api.worldbank.org/v2/countries/ETH/indicators/IE.PPN.TRAN.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IE.PPI.TRAN.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.WRH.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.TAX.OTHR.CP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.TAX.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.REG.DURS.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.REG.COST.PC.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.LGL.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.USE.PCAP.KG.OE
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.USE.COMM.FO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.GDP.PUSE.KO.PP
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.RNEW.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.LOSS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.ACCS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.CFT.ACCS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.MLAT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.DPPF.XP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.DECT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.ODAT.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.OATL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.WHOL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNRW.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNEP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNCF.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.PRVT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.PCBO.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.NIFC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.MIBR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.IFAD.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.BOND.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.PVLX.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DSTC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DPPG.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DECT.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.ODA.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.WAG.0714.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.TOTL.MA.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.NEET.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.INTM.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.ADVN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.1524.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.1524.FE.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.PART.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.INTM.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.CACT.MA.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.CACT.FE.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ADVN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ACTI.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ACTI.1524.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.WK.MA.TM
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.SW.TM
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.SW.FE.TM
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.SRV.EMPL.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.SRV.0714.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.MNF.0714.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.IND.EMPL.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.FAM.WORK.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.FAM.0714.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.VULN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.TOTL.SP.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.TOTL.SP.FE.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.SELF.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.1524.SP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.1524.SP.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.AGR.EMPL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.SPR.PCAP.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.RMT.COST.OB.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.NAHC
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.MDIM.HH
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.MDIM
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.GAPS
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.DST.50MD
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.DST.03RD.20
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.PVTD.CH.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.GHED.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.GHED.CH.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.CHEX.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.SRVS.CV.XD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.OOPC.10.TO
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.NOP2.CG
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.NOP1.CG
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.SVR.WAST.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.WAST.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.SUIC.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.STNT.ME.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.SMSS.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SN.ITK.SVFI.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SM.POP.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SM.POP.NETM
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.TOTL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.NEET.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.BASC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.ADVN.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.1524.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.TOTL.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.PART.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.CACT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.CACT.FM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.BASC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ADVN.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ACTI.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ACTI.1524.MA.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.WK.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.WK.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.SW.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.SRV.EMPL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.SLF.0714.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.MNF.0714.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.IND.EMPL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.FAM.WORK.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.WORK.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.VULN.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.TOTL.SP.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.SMGT.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.MPYR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.1524.SP.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.1524.SP.FE.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.AGR.0714.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.SPR.PCAP
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.RMT.COST.IB.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.MDIM.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.MDIM.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.LMIC.GP
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.DDAY
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.DST.10TH.10
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.DST.02ND.20
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.OOPC.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.GHED.PC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.EHEX.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.CHEX.PC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.OOPC.25.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.NOP2.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.NOP1.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.TBS.INCD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.SVR.WAST.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.WAST.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.SUIC.MA.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.STNT.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/RL.STD.ERR
+https://api.worldbank.org/v2/countries/ETH/indicators/RL.NO.SRC
+https://api.worldbank.org/v2/countries/ETH/indicators/PV.PER.RNK.UPPER
+https://api.worldbank.org/v2/countries/ETH/indicators/PV.EST
+https://api.worldbank.org/v2/countries/ETH/indicators/per_si_allsi.cov_q2_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_si_allsi.adq_pop_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_sa_allsa.cov_q2_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_sa_allsa.adq_pop_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_lm_alllm.cov_q2_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_lm_alllm.adq_pop_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/PA.NUS.PRVT.PP
+https://api.worldbank.org/v2/countries/ETH/indicators/PA.NUS.ATLS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.TRF.NCTR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GSR.NFCY.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNS.ICTR.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.PCAP.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.PCAP.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.MKTP.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.MKTP.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDS.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.PETR.RT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.PCAP.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.NGAS.RT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.MKTP.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.MKTP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.FCST.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.DISC.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.DEFL.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.SVNX.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.NNTY.PC.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.NNTY.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DRES.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DNGY.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DKAP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DCO2.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.SRV.TOTL.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.SRV.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.MNF.OTHR.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.MANF.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.EMPL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.AGR.TOTL.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.AGR.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.GDP.PUSE.KO.PP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.RNWX.KH
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.NGAS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.COAL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.EGY.PRIM.PP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.MLAT.PG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.DPPG.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.DECT.EX.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.ODAT.MP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.ODAT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.ALLD.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNTA.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNFP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNCR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.RDBC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.PNGB.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.OFFT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.MIDA.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.ILOG.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.DPNG.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.PVLX.EX.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.MIBR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DSTC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DIMF.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.ODA.TOTL.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SN.ITK.SALT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SM.POP.TOTL
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.WAG.0714.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.TOTL.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.TOTL.FE.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.INTM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.BASC.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.ADVN.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.1524.MA.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.TOTL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.INTM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.CACT.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.CACT.FM.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.BASC.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ADVN.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ACTI.1524.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ACTI.1524.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.WK.TM
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.WK.FE.TM
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.SW.MA.TM
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.SRV.0714.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.SLF.0714.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.MNF.0714.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.GDP.PCAP.EM.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.FAM.0714.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.WORK.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.VULN.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.TOTL.SP.MA.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.SELF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.MPYR.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.1524.SP.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.AGR.EMPL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.AGR.0714.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.SPR.PC40.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.UMIC.GP
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.MDIM.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.MDIM.17.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.LMIC
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.DST.FRST.20
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.DST.05TH.20
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.PVTD.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.OOPC.PC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.GHED.GE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.EHEX.PC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.CHEX.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.OOPC.25.TO
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.NOP2.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.NOP1.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.TBS.DTEC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/PV.NO.SRC
+https://api.worldbank.org/v2/countries/ETH/indicators/per_si_allsi.cov_q3_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_si_allsi.ben_q1_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_sa_allsa.cov_q3_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_sa_allsa.ben_q1_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_lm_alllm.cov_q3_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_lm_alllm.ben_q1_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_allsp.adq_pop_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/PA.NUS.FCRF
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.TRF.NCTR.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.TAX.NIND.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNS.ICTR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.PCAP.PP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.PCAP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.MKTP.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.MKTP.CN.AD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDY.TOTL.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.TOTL.RT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.PCAP.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.PCAP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.MKTP.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.MKTP.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.FCST.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.DISC.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.DEFL.KD.ZG.AD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.SVNX.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.NNTY.PC.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.NNTY.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.ICTR.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DNGY.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DKAP.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DCO2.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.SRV.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.SRV.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.MNF.TECH.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.MNF.CHEM.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.TOTL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.MANF.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.MANF.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.AGR.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.AGR.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.RSB.GNFS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.IMP.GNFS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.IMP.GNFS.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.TOTL.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.STKB.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FTOT.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FTOT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.EXP.GNFS.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.EXP.GNFS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.AGR.EMPL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.RSB.GNFS.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.IMP.GNFS.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.STKB.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FTOT.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FPRV.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.EXP.GNFS.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.DAB.TOTL.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.DAB.DEFL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.TOTL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.PP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.GOVT.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/MS.MIL.XPRT.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/MS.MIL.XPND.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/LP.LPI.TRAC.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/LP.LPI.ITRN.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/LP.EXP.DURS.MD
+https://api.worldbank.org/v2/countries/ETH/indicators/IT.NET.BBND.P2
+https://api.worldbank.org/v2/countries/ETH/indicators/IT.CEL.SETS.P2
+https://api.worldbank.org/v2/countries/ETH/indicators/IS.RRS.TOTL.KM
+https://api.worldbank.org/v2/countries/ETH/indicators/IS.AIR.GOOD.MT.K1
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SPI.PIL3
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SCI.SRCE
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.TRAN.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.REVN.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.PRES.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.HRES.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.FINQ.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.BREG.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IP.PAT.NRES
+https://api.worldbank.org/v2/countries/ETH/indicators/IE.PPN.WATR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IE.PPI.WATR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.WRH.PROC
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.TAX.PAYM
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.TAX.GIFT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.REG.PROC
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.REG.COST.PC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.PRP.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.IMP.CSBC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.RSDV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.FREG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.CRIM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.BNKS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.EXP.CSDC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.ELC.OUTG
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.CRD.PRVT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.BUS.EASE.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/HD.HCI.OVRL.UB.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/HD.HCI.OVRL.LB.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/GF.XPD.BUDG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GE.PER.RNK
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.TRFT.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.OTHR.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.GSRV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.YPKG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.INTT.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.GSRV.RV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.REV.XGRT.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.REV.GOTR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.NFN.TOTL.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.DOD.TOTL.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GB.XPD.RSDV.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FX.OWN.TOTL.PL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FX.OWN.TOTL.60.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FS.AST.DOMO.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FR.INR.LNDP
+https://api.worldbank.org/v2/countries/ETH/indicators/FP.CPI.TOTL.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.LBL.BMNY.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.AST.NFRG.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/FI.RES.XGLD.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/FD.RES.LIQU.AS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FB.CBK.BRCH.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.PTD.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.H2O.INTR.K3
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.H2O.FWIN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.FSH.PROD.MT
+https://api.worldbank.org/v2/countries/ETH/indicators/EP.PMP.DESL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.URB.LCTY
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.POP.EL5M.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.FSH.THRD.NO
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.CO2.ETOT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.CLC.DRSK.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.PM25.MC.T3.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.PFCG.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.NOXE.EG.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.METH.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.METH.AG.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.GHGO.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.PP.GD.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.LF.KT
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.GF.KT
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.USE.CRNW.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.IMP.CONS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.SVNL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.NZLL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.KORL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.IRLL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.FRAL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.DEUL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.CANL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/CM.MKT.TRNR
+https://api.worldbank.org/v2/countries/ETH/indicators/CM.MKT.LCAP.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/CC.PER.RNK.UPPER
+https://api.worldbank.org/v2/countries/ETH/indicators/CC.EST
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.TRF.CURR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.TRVL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.NFSV.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.FCTY.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GRT.TECH.CD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.RES.INCL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.GSR.MRCH.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.CAB.XOKA.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.KLT.DINV.WD.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.INSF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BG.GSR.NFSV.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.PRD.FOOD.XD
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.TOTL.UR.K2
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.IRIG.AG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.EL5M.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.CROP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.ARBL.HA
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.CON.FERT.PT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.POIS.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.OWGH.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.ODFC.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.MALN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.HYGN.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.BRTW.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.BASS.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.AIRP.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.SGR.IRSK.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.PRV.SMOK
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MMR.DTHS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MED.SAOP.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MED.BEDS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.PMTC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.INCD.TL.P3
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.ARTC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.H2O.SMDW.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.H2O.BASW.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.NCOM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.MORT.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.2024
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.NMRT
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.IMRT
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.1014
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.ANM.NPRG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.ALC.PCAP.LI
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.VAW.NEGL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.VAW.1549.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.GEN.PARL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.TOTL.GB.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.SECO.PC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.CTER.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.ENRR.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.ST.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.MS.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.DO.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.UNER.LO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCHR.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCAQ.UP.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCAQ.LO.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.PROG.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.NENR.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRR
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRL.TC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CUAT.UP.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CUAT.PO.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CMPT.LO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.UNER.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.UNER.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.TENR
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.TCAQ.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.REPT.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.PRS5.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.OENR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.NINT.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.NENR
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.ENRR.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.ENRL.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.CUAT.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.CMPT.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRE.TCAQ.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRE.ENRL.TC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ENR.PRSC.FM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ADT.LITR.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ADT.1524.LT.FM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/RQ.PER.RNK.LOWER
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.DAB.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.TOTL.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.PC.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.GOVT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.GOVT.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/MS.MIL.XPND.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/MS.MIL.TOTL.P1
+https://api.worldbank.org/v2/countries/ETH/indicators/LP.LPI.OVRL.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/LP.LPI.CUST.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IT.NET.SECR.P6
+https://api.worldbank.org/v2/countries/ETH/indicators/IT.MLT.MAIN.P2
+https://api.worldbank.org/v2/countries/ETH/indicators/IS.SHP.GOOD.TU
+https://api.worldbank.org/v2/countries/ETH/indicators/IS.RRS.GOOD.MT.K6
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SPI.PIL5
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SPI.PIL1
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SCI.OVRL
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.STRC.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.PROT.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.MACR.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.FISP.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.ECON.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IP.TMK.NRCT
+https://api.worldbank.org/v2/countries/ETH/indicators/IP.IDS.RSCT
+https://api.worldbank.org/v2/countries/ETH/indicators/IE.PPN.ICTI.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IE.PPI.ICTI.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.TAX.TOTL.CP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.TAX.METG
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.REG.PROC.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.REG.DURS.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.REG.COST.PC.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.LGL.CRED.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.IMP.CSDC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.THEV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.INFM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.BRIB.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.EXP.TMBC
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.ELC.OUTG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.CRD.PUBL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.IMP.TMBC
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.TRNG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.METG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.FEMM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.CMPU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.EXP.TMDC
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.ELC.TIME
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.CUS.DURS.EX
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.BUS.NREG
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.BUS.DFRN.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/HD.HCI.OVRL.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/HD.HCI.OVRL.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/GE.PER.RNK.UPPER
+https://api.worldbank.org/v2/countries/ETH/indicators/GE.EST
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.INTP.RV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.COMP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.YPKG.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.OTHR.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.IMPT.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.EXPT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.REV.SOCL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.NLD.TOTL.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.LBL.TOTL.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.AST.TOTL.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FX.OWN.TOTL.YG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FX.OWN.TOTL.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FS.AST.PRVT.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FR.INR.RISK
+https://api.worldbank.org/v2/countries/ETH/indicators/FR.INR.DPST
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.LBL.BMNY.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.AST.PRVT.ZG.M3
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.AST.DOMO.ZG.M3
+https://api.worldbank.org/v2/countries/ETH/indicators/FI.RES.TOTL.DT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FB.CBK.DPTR.P3
+https://api.worldbank.org/v2/countries/ETH/indicators/FB.ATM.TOTL.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.LND.PTLD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.H2O.FWTL.K3
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.H2O.FWAG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.FSH.AQUA.MT
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.URB.MCTY
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.POP.EL5M.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.MAM.THRD.NO
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.CO2.OTHX.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.CLC.MDAT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.SF6G.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.PM25.MC.T1.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.NOXE.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.NOXE.AG.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.METH.EG.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.GHGT.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.SF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.PC
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.KD.GD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.PRTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.NLDL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.ITAL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.GRCL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.ESPL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.CHEL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.AUTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/CM.MKT.TRAD.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/CM.MKT.INDX.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/CC.PER.RNK
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.TRF.PWKR.CD.DT
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.KLT.DINV.WD.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.INSF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.CCIS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.TRF.KOGT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.KLT.DINV.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.GSR.FCTY.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.TRF.PWKR.CD.DT
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.TRVL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.NFSV.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.FCTY.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.SRF.TOTL.K2
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.PRD.CREL.MT
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.TOTL.K2
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.FRST.K2
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.EL5M.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.ARBL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.AGRI.K2
+https://api.worldbank.org/v2/countries/ETH/indicators/VC.IDP.TOCV
+https://api.worldbank.org/v2/countries/ETH/indicators/VA.STD.ERR
+https://api.worldbank.org/v2/countries/ETH/indicators/VA.NO.SRC
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.TECH.MF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.XD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.R6.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.R2.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.MRCH.CD.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.INSF.ZS.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TX.VAL.AGRI.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TT.PRI.MRCH.XD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.OTHR.ZS.WT
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.RS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.R3.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MRCH.HI.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.MANF.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.VAL.FOOD.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.TCOM.WM.AR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.TCOM.IP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MRCH.WM.AR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MRCH.IP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MANF.WM.AR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TM.TAX.MANF.IP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/TG.VAL.TOTL.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.TVLR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/ST.INT.RCPT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.URB.TOTL.IN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.RUR.TOTL.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.REG.BRTH.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.TOTL.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.TOTL
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.DPND.YG
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.80UP.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.7074.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.65UP.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.6569.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.5559.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.4549.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.3539.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.2529.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1564.TO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1564.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.1014.MA.5Y
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0014.TO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.POP.0014.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.MTR.1519.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.WFRT
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.LE00.MA.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.IMRT.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.DYN.CDRT.IN
+https://api.worldbank.org/v2/countries/ETH/indicators/SP.ADO.TFRT
+https://api.worldbank.org/v2/countries/ETH/indicators/SN.ITK.MSFI.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SM.POP.REFG.OR
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.WAG.0714.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.TOTL.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.NEET.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.SMSS.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.OWGH.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.ORTH
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.ODFC.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.MALN.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.HYGN.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.BRTC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.BASS.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.AIRP.MA.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.SGR.CRSK.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.PRG.ANEM
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MLR.TRET.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MED.PHYS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.IMM.MEAS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.INCD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.INCD.TL
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.1524.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.H2O.SMDW.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.H2O.BASW.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.NCOM.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.MORT
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.1519
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.NCOM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.COMM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.0509
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.ANM.CHLD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.ALC.PCAP.FE.LI
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.VAW.GOES.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.TIM.UWRK.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.DMK.SRCR.FN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.TERT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.PRIM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.CSEC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.ENRR.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.ST.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.MS.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.BA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.UNER.LO.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCHR
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCAQ.UP.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCAQ.LO.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.PROG.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.NENR
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRL.VO.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRL.LO.TC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRL
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CUAT.UP.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CUAT.LO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CMPT.LO.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.UNER.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.UNER
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.TCHR.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.TCAQ.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.PRSL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.PRS5.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.OENR.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.NINT.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.GINT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.ENRR.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.ENRL
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.CUAT.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.AGES
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRE.ENRR.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRE.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ENR.PRIM.FM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ADT.LITR.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ADT.1524.LT.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/RQ.PER.RNK
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.WFPG.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNPB.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNEC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNAI.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.PROP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.PCBK.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.MOTH.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.IMFN.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.IAEA.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.BLAT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.MWBG.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DSTC.XP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DPNG.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DECT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.ODA.TLDC.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.SWEL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.POLL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.LUXL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.INTM.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.BASC.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.1524.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.UEM.1524.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.PART.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.INTM.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.CACT.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.CACT.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.BASC.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ACTI.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ACTI.1524.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.ACTI.1524.FE.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.WK.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.SW.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.TLF.0714.SW.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.SRV.EMPL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.SRV.0714.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.SLF.0714.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.IND.EMPL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.FAM.WORK.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.FAM.0714.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.WORK.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.TOTL.SP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.TOTL.SP.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.SELF.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.MPYR.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.EMP.1524.SP.MA.NE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.AGR.EMPL.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SL.AGR.0714.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.SPR.PC40
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.UMIC
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.MDIM.IT
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.MDIM.17
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.POV.GINI
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.DST.FRST.10
+https://api.worldbank.org/v2/countries/ETH/indicators/SI.DST.04TH.20
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.PVTD.PC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.OOPC.CH.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.GHED.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.XPD.EHEX.CH.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.VAC.TTNS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.OOPC.10.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.NOP2.TO
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.UHC.NOP1.TO
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.TBS.CURE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.WAST.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.TRAF.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.STNT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.SMSS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.POIS.P5.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.OWGH.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.ODFC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.MMRT
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.HYGN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.DIAB.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/RL.PER.RNK.UPPER
+https://api.worldbank.org/v2/countries/ETH/indicators/RL.EST
+https://api.worldbank.org/v2/countries/ETH/indicators/PV.PER.RNK.LOWER
+https://api.worldbank.org/v2/countries/ETH/indicators/per_si_allsi.cov_q5_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_si_allsi.cov_q1_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_sa_allsa.cov_q5_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_sa_allsa.cov_q1_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_lm_alllm.cov_q5_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_lm_alllm.cov_q1_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_allsp.cov_pop_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/PA.NUS.PPPC.RF
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.TTF.GNFS.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.TAX.NIND.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GSR.NFCY.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNS.ICTR.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.PCAP.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.PCAP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.MKTP.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.MKTP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDS.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.PCAP.PP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.PCAP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.MKTP.PP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.MKTP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.MINR.RT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.FCST.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.DEFL.ZS.AD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.COAL.RT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.SVNG.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.NNTY.PC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.NNAT.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DPEM.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DMIN.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DFOR.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.AEDU.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.SRV.TOTL.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.SRV.EMPL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.MNF.MTRN.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.TOTL.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.MANF.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.FSM.TOTL.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.AGR.TOTL.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.RSB.GNFS.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.IMP.GNFS.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.IMP.GNFS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.TOTL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.STKB.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FTOT.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FPRV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.EXP.GNFS.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.DAB.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.DAB.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.TOTL.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.PC.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.PRVT.CN.AD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.GOVT.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.CON.GOVT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/MS.MIL.XPND.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/MS.MIL.MPRT.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/LP.LPI.LOGS.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/LP.IMP.DURS.MD
+https://api.worldbank.org/v2/countries/ETH/indicators/IT.NET.SECR
+https://api.worldbank.org/v2/countries/ETH/indicators/IT.MLT.MAIN
+https://api.worldbank.org/v2/countries/ETH/indicators/IS.SHP.GCNW.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IS.AIR.PSGR
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SPI.PIL4
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SPI.OVRL
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.SCI.MTHD
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.SOCI.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.PROP.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.IRAI.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.FINS.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IQ.CPA.DEBT.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IP.PAT.RESD
+https://api.worldbank.org/v2/countries/ETH/indicators/IP.IDS.NRCT
+https://api.worldbank.org/v2/countries/ETH/indicators/IE.PPN.ENGY.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IE.PPI.ENGY.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.TAX.PRFT.CP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.TAX.LABR.CP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.REG.PROC.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.REG.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.PRP.PROC
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.ISV.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.RNWX.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.NUCL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.FOSL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.ACCS.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.CFT.ACCS.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.DPPG.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.TDS.DECT.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.ODAT.PC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.ODAT.GI.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.ODA.ALLD.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNWT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNID.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.UNDP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.RDBN.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.PNGC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.PBND.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.MLAT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.IMFC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.NFL.FAOG.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.PVLX.GN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.MIDA.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DSTC.IR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/DT.DOD.DLXF.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.ODA.TOTL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.ODA.TLDC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.SVR.WAST.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.WASH.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.SUIC.FE.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.STNT.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.POIS.P5.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.OWGH.ME.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.ORCF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.MMRT.NE
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.MALN.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.FGMS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.BFED.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.ARIC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.STA.AIRP.FE.P5
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.PRV.SMOK.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MMR.RISK.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MLR.NETS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.MED.NUMW.P3
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.IMM.IDPT
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.INCD.YG.P3
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.INCD.14
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.HIV.1524.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.H2O.SMDW.RU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.FPL.SATM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.NCOM.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.AIDS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DYN.1014
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.MORT
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.DTH.2024
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.CON.1524.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SH.ANM.ALLW.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.VAW.REFU.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.VAW.BURN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.TIM.UWRK.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SG.DMK.ALLD.FN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.TERT.PC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.PRIM.PC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.XPD.CPRM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.ENRR
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.ST.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.DO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.TER.CUAT.BA.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.UNER.LO.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCAQ.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCAQ.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.TCAQ.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.PRIV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRR.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRL.VO
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.ENRL.GC.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CUAT.PO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CUAT.LO.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.SEC.CMPT.LO.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.UNER.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.TENR.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.TCHR
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.REPT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.PRSL.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.PRS5.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.OENR.FE.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.NENR.MA
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.GINT.MA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.ENRR
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRM.CMPT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRE.TCAQ.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.PRE.ENRR.FE
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ENR.TERT.FM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.COM.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/SE.ADT.1524.LT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/RQ.STD.ERR
+https://api.worldbank.org/v2/countries/ETH/indicators/RQ.NO.SRC
+https://api.worldbank.org/v2/countries/ETH/indicators/RL.PER.RNK.LOWER
+https://api.worldbank.org/v2/countries/ETH/indicators/PX.REX.REER
+https://api.worldbank.org/v2/countries/ETH/indicators/PV.PER.RNK
+https://api.worldbank.org/v2/countries/ETH/indicators/per_si_allsi.cov_q4_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_si_allsi.cov_pop_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_sa_allsa.cov_q4_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_sa_allsa.cov_pop_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_lm_alllm.cov_q4_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_lm_alllm.cov_pop_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/per_allsp.ben_q1_tot
+https://api.worldbank.org/v2/countries/ETH/indicators/PA.NUS.PPP
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.TRF.NCTR.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.TAX.NIND.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GSR.NFCY.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNS.ICTR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.PCAP.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.MKTP.PP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.MKTP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GNP.ATLS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDS.TOTL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.PCAP.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.PCAP.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.MKTP.PP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.MKTP.CN.AD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.FRST.RT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.FCST.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.GDP.DEFL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.EXP.CAPM.KN
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.SVNG.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.NNTY.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.NNAT.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DPEM.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DMIN.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.DFOR.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NY.ADJ.AEDU.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.SRV.TOTL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.MNF.TXTL.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.MNF.FBTO.ZS.UN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.TOTL.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.MANF.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.IND.MANF.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.FSM.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/NV.AGR.TOTL.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.TRD.GNFS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.IMP.TMDC
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.GOV.DURS.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.OUTG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.FEMO.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.CORR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.FRM.BKWC.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.EXP.CSBC.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.ELC.DURS
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.CRD.INFO.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/IC.BUS.DISC.XQ
+https://api.worldbank.org/v2/countries/ETH/indicators/HD.HCI.OVRL.UB
+https://api.worldbank.org/v2/countries/ETH/indicators/HD.HCI.OVRL.LB
+https://api.worldbank.org/v2/countries/ETH/indicators/GE.STD.ERR
+https://api.worldbank.org/v2/countries/ETH/indicators/GE.NO.SRC
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.TOTL.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.INTP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.XPN.GSRV.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.YPKG.RV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.OTHR.RV.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.IMPT.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.TAX.GSRV.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.REV.XGRT.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.REV.GOTR.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.NFN.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/GC.DOD.TOTL.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/FX.OWN.TOTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FX.OWN.TOTL.OL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FX.OWN.TOTL.40.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FS.AST.CGOV.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FR.INR.LEND
+https://api.worldbank.org/v2/countries/ETH/indicators/FP.CPI.TOTL
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.LBL.BMNY.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/FM.AST.DOMS.CN
+https://api.worldbank.org/v2/countries/ETH/indicators/FI.RES.TOTL.MO
+https://api.worldbank.org/v2/countries/ETH/indicators/FD.AST.PRVT.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/FB.BNK.CAPA.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.MRN.PTMR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.H2O.FWTL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.H2O.FWDM.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/ER.FSH.CAPT.MT
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.URB.MCTY.TL.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.POP.SLUM.UR.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.POP.DNST
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.CO2.TRAN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.CO2.BLDG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.BIR.THRD.NO
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.PM25.MC.T2.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.NOXE.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.NOXE.AG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.METH.EG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.HFCG.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.GHGO.KT.CE
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.PP.GD
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.KT
+https://api.worldbank.org/v2/countries/ETH/indicators/EN.ATM.CO2E.EG.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/EG.USE.COMM.GD.PP.KD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.USAL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.SVKL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.NORL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.JPNL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.HUNL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.FINL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.CZEL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/DC.DAC.BELL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/CM.MKT.TRAD.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/CM.MKT.LCAP.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/CC.PER.RNK.LOWER
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.TRF.PWKR.DT.GD.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.PEF.TOTL.CD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.TRAN.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.MRCH.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GSR.CMCP.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/BX.GRT.EXTA.CD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.KLT.PTXL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.GSR.GNFS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BN.CAB.XOKA.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.KLT.DINV.CD.WD
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.ROYL.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/BM.GSR.GNFS.CD
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.YLD.CREL.KG
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.PRD.CROP.XD
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.TOTL.RU.K2
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.FRST.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.EL5M.UR.K2
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.CREL.HA
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.LND.AGRI.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/AG.AGR.TRAC.NO
+
+
+
+
+WHO
+
+https://ghoapi.azureedge.net/api/AIR_10?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_11?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_12?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_15?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_16?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_17?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_39?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_41?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_42?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_43?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_44?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_45?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_46?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_51?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_52?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_8?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_9?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AIR_90?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_COORD01?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_COORD02?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_COORD03?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_COORD04?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_QA01?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_QA02?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_QA03?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_QA04?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_QA05?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_SURVL01?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_SURVL02?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/AMRGLASS_SURVL03?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/anc1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/anc15?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/anc4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/anc45?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/asfr1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ASSISTIVETECH_METNEED?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/BP_03?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/BP_04?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/BP_05?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/BP_06?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Camp_airtime?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Camp_aud_research?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Camp_eval_impact?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Camp_gov_prog?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Camp_mat_tested?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Camp_media_planning?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Camp_nat?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Camp_news?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Camp_tv_radio?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/carep?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CaseCS?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CATARACTSURGICAL?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CATARACTSURGICALEFFECTIVE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CC_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CC_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CC_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CC_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CC_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CC_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CC_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CC_8?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/cci?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/cci2030?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CCO_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CCO_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CCO_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CHILDMORT5TO14?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CHOLERA_0000000001?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CHOLERA_0000000002?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CHOLERA_0000000003?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CM_01?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CM_02?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/CM_03?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/cpmt?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/csection?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/csection5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES00?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES01?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES02?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES03?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES04?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES05?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES06?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES07?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES08?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES09?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES10?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES11?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES12?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES13?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES14?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES15?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES16?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES17?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES18?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES19?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES20?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES21?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES22?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/DEVICES23?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E_Group?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E1_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E1_nat_tv_radio?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E10_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E10_promo_discounts?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E11_brand_stretching?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E11_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E12_brand_sharing?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E12_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E13_brand_placement?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E13_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E14_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E14_prod_tv_films?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E14a_prod_tv_films?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E14b_movies_anti_tob_ads?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E15_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E15_sponsored_events?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E15a_sponsorship?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E15b_sponsor_contribution?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E15c_sponsor_publicity?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E16_csr_promo_self?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E17_csr_promo_others?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E18_csr_anti_tobacco_media?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E19_movies_anti_tob_ads?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E2_intl_tv_radio?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E21_vending_machines?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E22_subnational_exists?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E23_subnat_complete_bans_exist?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E24_internet_sales_ban?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E25_ban_display_pt_of_sale?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E26_direct_ad_fines?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E27_indirect_ad_fines?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E3_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E3_nat_print?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E4_intl_print?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E5_billboards?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E5_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E6_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E6_pt_of_sale?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E6b_ban_display_pt_of_sale?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E7_internet?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E9_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/E9_free_distrib?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EC_direct_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EC_indirect_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EMFLIMITELECTRIC?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EMFLIMITELECTRICLF?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EMFLIMITELECTRICRF?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EMFLIMITMAGNETIC?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EMFLIMITPOWERDENSITY?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EMFPOWERFREQUENCY?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EMFSAR?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EMFSTANDARD?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/EMFSTATUS?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_CATA_ESTIMATE_AVAILABLE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_CATA_TOT_10_LEVEL_MILLION?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_CATA_TOT_10_LEVEL_SH?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_CATA_TOT_10_POP?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_CATA_TOT_25_LEVEL_MILLION?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_CATA_TOT_25_LEVEL_SH?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_CATA_TOT_25_POP?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_IMP_NP_190_LEVEL_MILLION?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_IMP_NP_190_LEVEL_SH?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_IMP_NP_310_LEVEL_MILLION?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_IMP_NP_310_LEVEL_SH?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_IMP_NP190_POP?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_IMP_NP310_POP?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_IMP_PG_190_STD?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_IMP_PG_310_STD?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/FINPROTECTION_IMPOV_ESTIMATE_AVAILABLE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/fps?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GBD_DALYRTAGE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q10x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q10x1x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q10x1x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q10x2_1AVAIL?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q10x2_HOSUE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q10x2_TECH?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q11x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q11x2x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q11x2x2_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q11x2x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q11x2x2_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q11x2x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q11x2x5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q11x2x6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x1x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x1x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x1x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_1NGO?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_1PRV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_1PUB?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_2NGO?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_2PRV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_2PUB?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_3NGO?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_3PRV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_3PUB?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_4NGO?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_4PRV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_4PUB?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_5NGO?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_5PRV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x1_5PUB?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x1x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x2x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x3x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x4x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q12x2x5x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q13x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q13x1x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q13x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q13x3x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q14x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q14x2_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q14x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q14x2_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q14x2_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q14x2_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q14x2_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q15x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q15x2_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q15x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q15x2_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q15x2_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q15x2_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q15x2_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q15x2_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q15x2_8?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x1x1_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x1x1_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x1x1_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x1x1_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x1x1_other?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x1x2_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x1x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x2_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x2_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x2_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x2_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q16x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q17x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q17x1x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q17x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q17x2x1_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q17x2x1_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q17x2x1_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q17x2x1_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q17x2x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q18x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q18x2x1_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q18x2x3_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q18x2x3_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q18x2x3_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q19x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q19x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q19x3x1_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q1x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q1x1x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q1x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q20?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x1x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x1x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_Q2x2x1_AGE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_Q2x2x1_DISAB?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_Q2x2x1_MENTAL?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_Q2x2x1_NCD?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x2x1_other?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x3x1_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x4_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x4_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x4_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x4_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x4_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x5_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x5_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x5_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x5_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x5_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x5_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q2x5_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q35?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x1x1_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x3a_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x3a_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x3a_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x3a_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x3b_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x4_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x4_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q3x4_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x1x1_SQ001?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x1x1_SQ002?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x1x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x2_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x2_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x2_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x2_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x3x4_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x3x4_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x3x4_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q4x3x4_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x1_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x1_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x1_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x1_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x1_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x1_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x1_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x1_8?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x1_other?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x1x3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q5x2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q6x1_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q6x1_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q6x2_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q6x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q6x2_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q6x2_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q6x2_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q6x2_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q7x1_AVAIL?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x2_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x2_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x2_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x2_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x2_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x3_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x3_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x3_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x3_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x3_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x3_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x4_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x4_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x4_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x4_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x4_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x4_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x5_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x5_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x5_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x5_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q8x5_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x1_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x1_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x1_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x1_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x2_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x2_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x2_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x2_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x2_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x3_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x3_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x3_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x4_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x4_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x4_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x5_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x5_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x6_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GDO_q9x6_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHE_DALYNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHE_DALYRATE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHE_YLDNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHE_YLDRATE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHE_YLLNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHE_YLLRATE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_CHE_pc_US_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_CHEGDP_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_EXT_pc_US_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_EXTCHE_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_GGHE-D_pc_US_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_GGHE-DCHE_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_GGHE-DGDP_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_GGHE-DGGE_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_OOP_pc_US_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_OOPSCHE_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_PVT-D_pc_US_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GHED_PVT-DCHE_SHA2011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q001?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q002?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q003?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q004?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q006?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q007?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q008?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q009?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q010?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q012?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q013?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q014?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q015?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q017?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q018?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q022?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q028?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q030_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q030_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q030_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q030_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q030_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q031?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q032?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q047?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q057?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q058?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q059?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q060?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q061?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q062?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q063?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q064?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q065?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q069?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q070?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q081?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q103?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q104_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q104_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q104_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q109?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q118?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q119_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q119_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q119_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q120?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q122?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q131?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q132?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q133?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q134?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q135?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q136?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q137?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q138?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q139?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q140?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q144?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q146?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q153?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q154?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q155?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q156?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q157?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q158?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q159?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q160?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q161?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q162?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q168?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q169?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q170?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q171?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q172?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q173?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q174?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q175?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q176?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q177?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q178?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q181?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q182?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q196?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q197?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q198?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q199?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q200?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q201?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q202?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/GOE_Q203?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HCF_NO_ELECTRICITY?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HCF_REL_ELECTRICITY?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000001?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000006?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000007?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000008?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000009?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000012?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000015?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000020?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000021?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000022?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000023?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000024?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000025?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_0000000026?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HIV_ARTCOVERAGE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HRH_40?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HRH_41?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HRH_42?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HRH_43?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HRH_44?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HRH_45?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HRH_46?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HSS_UHCLEGISLATION?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0001?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0002?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0003?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0004?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0005?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0006?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0007?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0008?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0009?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0010?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0012?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0013?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0014?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0015?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0016?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0017?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0018?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0019?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0020?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0021?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0022?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0023?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWF_0024?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWWS_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/HWWS_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR01?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR02?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR03?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR04?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR05?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR06?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR07?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR08?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR09?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR10?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR11?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR12?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IHR13?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/imr?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IR_CARBAMATE_EXTENT?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IR_CARBAMATE_PRESENCE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IR_INSECTICIDERESISTANCE_PREV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IR_ORGANOCHLORINE_EXTENT?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IR_ORGANOCHLORINE_PRESENCE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IR_ORGANOPHOSPHATE_EXTENT?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IR_ORGANOPHOSPHATE_PRESENCE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IR_PYRETHROID_EXTENT?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/IR_PYRETHROID_PRESENCE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/itnch?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/itnwm?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ITU_ICT_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ITU_ICT_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ITU_IDI?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ITU_IDI_RANK?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_10?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_8?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEAD_9?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LEADCONTROL?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LIFE_0000000029?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LIFE_0000000030?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LIFE_0000000031?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LIFE_0000000032?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LIFE_0000000033?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LIFE_0000000034?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/LIFE_0000000035?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_def_1_prev_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_def_1_prev_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_def_1_text_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_def_1_text_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_def_2_prev_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_def_2_prev_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_def_2_text_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_def_2_text_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_Est_cig_curr?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_Est_tob_curr?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_Group?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_age_range_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_age_range_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_def_text_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_def_text_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_prev_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_prev_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_survey_title_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_survey_title_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_svy_national_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_smkless_svy_national_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_survey_title_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_survey_title_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_svy_age_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_svy_age_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_svy_national_adult?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/M_svy_national_youth?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MCV2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000001?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000003?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000007?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000010?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000011?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000015?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000017?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000020?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000021?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000025?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000026?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000029?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000030?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000031?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000032?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000033?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MDG_0000000034?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MENING_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MENING_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MENING_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_10?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_11?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_12?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_13?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_14?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_15?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_16?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_17?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_18?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_19?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_20?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_24?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_25?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_8?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MH_9?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MORT_100?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MORT_200?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MORT_300?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MORT_600?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MORT_700?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MORT_MATERNALNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/MORTADO?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_18A?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_18C?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_25A?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_25C?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_30A?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_30C?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_MEAN?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_MEANC?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_MINUS2C?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_PLUS1C?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_BMI_PLUS2C?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_ACE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_AlcPlan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Aspirin?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_betablockers?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_BowelCancer?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_BreastCancer?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_breastcancerscreening?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Bronchodilators?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_CancerPlan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_CancerRegNational?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_CCBlkrs?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_CervCy?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_cervicalcancermethod?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_cervicalcancerpgmcvg?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_cervicalcancerpgmtype?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_cervicalcancerscreening?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_chemo?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_CholMsmt?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_coronary?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_CRDPlan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_CVDPlan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_DiabetesReg?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_DiabetesTest?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_DiabPlan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_diabtest?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_dialysis?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_dietpaaware?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_DietPlan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_HbA1c?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_hpv?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Insulin?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_integNCDplan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Metformin?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Mkting?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_MultisecComm?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_NCDGuide?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_NCDIndicators?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_NCDUnit_Operational?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Nicotine?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_oralhealthplan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_OralMorph?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_paaware?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_palliative_home?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_palliative_prim?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_PAPlan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_PeakFlow?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_photocoag?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_PM3_Surv?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_renaltrans?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_rheum?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_rheumfollowup?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_rheumreg?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_riskstrat?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_SaltPol?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_SatFat?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Spirom?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_SSBTAX?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Statins?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Steroid?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_stroke?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_sulphonylurea?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_SurvMonRep9NCD?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_targets?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_Thiazide?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_thrombolytic?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_TobPlan?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_CCS_UrineAlbumin?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_DTH_TOT?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_GLUC_01?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_GLUC_02?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_GLUC_03?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_GLUC_04?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_PAA?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_PAC?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_PAC_ADO?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCD_UNDER70?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NCDMORT3070?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NHABASIS?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/nmr?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTCP_agcy?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTCP_budget_year?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTCP_curr?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTCP_FTE?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTCP_govt_exp?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTCP_govt_obj?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_8?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_BEJELSTATUS?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEISHCEND?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEISHCNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEISHCNUM_IM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEISHVEND?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEISHVNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEISHVNUM_IM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEPR11?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEPR2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEPR3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEPR4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEPR5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEPR7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEPR8?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_LEPR9?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_ONCHEMO?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_ONCHSTATUS?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_ONCTREAT?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_PINTASTATUS?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_RAB2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_TRA5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_TSOL1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_TSOL3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_TSOL4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_YAWSEND?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NTD_YAWSNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTOVERWEIGHTNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTOVERWEIGHTPREV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTRITION_2005?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTRITION_564?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTRITION_570?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTRITION_579?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTRITION_ANT_HAZ_NE2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTRITION_ANT_WHZ_NE2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTRITION_WA_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTRITION_WH_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTRITION_WH_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTSEVWASTINGNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTSEVWASTINGPREV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTSTUNTINGNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTSTUNTINGPREV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTUNDERWEIGHTNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTUNDERWEIGHTPREV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTWASTINGNUM?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/NUTWASTINGPREV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Avail_community?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Avail_hlth_clin?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Avail_hosp?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Avail_off_hlth_prof?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Avail_other?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Bup_ins?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Bup_sold?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Bup_where?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Group?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Ins_community?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Ins_hlth_clin?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Ins_hosp?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Ins_off_hlth_prof?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Ins_other?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_NRT_EML?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_NRT_ins?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_NRT_sold?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_NRT_where?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Quitline?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Varen_ins?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Varen_sold?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/O_Varen_where?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_10?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_11?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_12?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_13?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_14?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_15?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_16?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_17?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_18?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_19?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_20?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_21?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_22?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_6?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_7?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_8?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/OCC_9?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ODA_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ODA_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ODA_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ODA_4?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ors?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ort?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/overwgt5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P_count_places_sf?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P_Group?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P1_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P1_healthcare?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P10_subnat_auth_exists?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P11_fines_any?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P12_fines_establishment?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P13_fines_smoker?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P14_funds_for_enforce?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P15_complaints?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P16_subnat_complete_bans_exist?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P2_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P2_education?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P3_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P3_universities?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P4_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P4_govt?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P5_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P5_indoor_off?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P6_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P6_restaurants?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P7_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P7_pubs?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P8_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P8_pub_transp?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/P9_all_other?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/PC_sfe_compliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/PCV3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/PercposANC?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/PerctestedANC?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/PerctreatedANC?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/pncall?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/pncall3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/pncall5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/pnchome?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/pnchome3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/pnchome5?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Ad_val_average?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Ad_val_estimate?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_admin_duty_free_allowance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_admin_duty_free_limited?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_admin_tax_stamps?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_afford_gdp?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_afford_price_dispersion?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_afford_tax_auto_adjust?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Curr_lowest_cost?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Curr_mp?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Curr_premium_cost?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_excise_incr?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_excise_min_specific?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_excise_proportion?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_excise_retail_price_base?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_excise_specific_reliance?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_excise_type?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_excise_uniform_varied?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Group?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_imp_duty_average?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_imp_duty_estimate?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Other_average?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Other_estimate?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Price_mp_estimate?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Price_premium_estimate?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Price_premium_ppp?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Price_premium_usd?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Sp_excise_average?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_Sp_excise_estimate?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_total_tax_average?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_total_tax_estimate?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_VAT_average?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/R_VAT_estimate?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q201?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q301?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q302?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q303?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q304?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q401?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q402?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q403?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q404?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q405?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q501?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q502?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q601?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q602?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q603?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q604?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q701?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q702?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q703?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q704?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q705?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q706?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q801?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q802?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RADON_Q803?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RateCS?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Rev_curr?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Rev_excise?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Rev_govt_total?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Rev_imp_other?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Rev_type?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Rev_VAT?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/Rev_year?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RHR_IPV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RHR_NPSV?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/ROTAC?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_1845?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_193?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_194?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_196?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_198?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_204?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_205?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_207?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_208?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_209?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_210?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_212?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_213?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_214?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_217?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_219?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_223_BIS?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_225?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_228?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_229?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_237?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_238?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_242?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_246?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RS_576?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_1?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_10?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_100?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_11?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_110?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_12?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_120?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_13?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_130?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_14?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_140?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_15?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_150?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_16?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_160?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_17
+https://ghoapi.azureedge.net/api/RSUD_170?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_18?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_180?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_19?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_190?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_2?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_20?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_200?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_21?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_210?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_22?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_220?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_23?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_230?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_240?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_250?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_26?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_260?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_27?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_270?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_28?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_280?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_29
+https://ghoapi.azureedge.net/api/RSUD_290?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_3?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_30?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_300?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_31?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_310?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_32?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_320?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_33?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_330?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_34?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_340?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_35?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_350?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_36?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_360?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_37
+https://ghoapi.azureedge.net/api/RSUD_370?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_38?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_380?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_39?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_390?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_40?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_400
+https://ghoapi.azureedge.net/api/RSUD_41?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_410?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_42?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_420?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_43?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_430?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_44
+https://ghoapi.azureedge.net/api/RSUD_440
+https://ghoapi.azureedge.net/api/RSUD_45?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_450?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_46?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_460?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_47?$filter=SpatialDim eq 'ETH'
+https://ghoapi.azureedge.net/api/RSUD_470
