@@ -41,11 +41,6 @@ def fetch_data_with_retry(url, max_retries=5, retry_delay=1):
     print(f"Max retries reached. Unable to fetch data from the API.")
     return None
 
-#https://api.worldbank.org/pip/v1/pip?country=ETH&povline=1.9&fill_gaps=false
-# Fetch data from API with retry handling
-# data = fetch_data_with_retry(url)
-# if data is None:
-#     exit()
 
 def dumb_data_to_json(datapoint_dir, data):
     with open(os.path.join(datapoint_dir, 'data.json'), 'w') as f:
@@ -113,45 +108,44 @@ def convert_to_excel(datapoint_dir,datapoint_name, country, data, flatten):
 
 app = Flask(__name__)
 
-@app.route('/', methods=['GET'])
+@app.route('/process_apis/', methods=['GET'])
+def process_apis():
+    api_urls = []
+    with open('Finals/apis_urls.txt', 'r') as f:
+        api_urls = f.read().splitlines()
 
-# def home_page():
+    for url in api_urls:
+        print("URL >> " + url)
 
-#     data_set = {datapoint: data, 'Timestamp': time.time()}
-#     json_data = json.dumps(data_set)
-#     return json_data
+        # Create directories
+        datapoint_dir, country, datapoint_name = create_datapoint_dir(url)
 
-@app.route('/requests/', methods=['GET'])
-def requests_page():
-    print(request.args)
-    url = request.args.get('url')
-    print("URL >> " + url)
+        # Fetch data from API with retry handling
+        data = fetch_data_with_retry(url)
+        if data is None:
+            return jsonify({'error': 'Failed to fetch data from the API.'}), 500
 
-    # Create directories
-    datapoint_dir,country, datapoint_name = create_datapoint_dir(url)
-    
-    # Fetch data from API with retry handling
-    data = fetch_data_with_retry(url)
-    if data is None:
-        return jsonify({'error': 'Failed to fetch data from the API.'}), 500
+        # Dump data to json
+        dumb_data_to_json(datapoint_dir, data)
 
-    # Dump data to json
-    dumb_data_to_json(datapoint_dir, data)
+        # Convert to Excel
+        if data and isinstance(data.get('value'), list):
+            json_data = data['value']  # Extract the list of values from the JSON response
+            
+            # Create a DataFrame from the list of dictionaries
+            df = pd.DataFrame(json_data)
+            
+            # Save the DataFrame to an Excel file
+            excel_file_path = os.path.join(datapoint_dir, f"{datapoint_name}.xlsx")
+            df.to_excel(excel_file_path, index=False)
+            
+            print("Data saved to", excel_file_path)
+        else:
+            print("No valid data found in the response.")
 
-    # Flatten Data
-    flat_data = {}
-    if isinstance(data, dict):
-        flat_data = flatten(data)
-    else:
-        flat_data = flatten({"data": data})
+        print("Files created at", datapoint_dir)
 
-    # convert to excel
-    convert_to_excel(datapoint_dir,datapoint_name, country, data, flat_data)
-
-
-    # data_set = {datapoint: data, 'Timestamp': time.time()}
-    json_data = json.dumps(data)
-    print("Files created at" + datapoint_dir)
+    return jsonify({'message': 'APIs processed successfully.'})
 
 if __name__ == '__main__':
     app.run(port=7777)
