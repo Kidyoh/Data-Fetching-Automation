@@ -129,19 +129,16 @@ def process_apis():
         dumb_data_to_json(datapoint_dir, data)
 
         # Convert to Excel
-        if data and isinstance(data.get('value'), list):
-            json_data = data['value']  # Extract the list of values from the JSON response
-            
-            # Create a DataFrame from the list of dictionaries
-            df = pd.DataFrame(json_data)
-            
-            # Save the DataFrame to an Excel file
-            excel_file_path = os.path.join(datapoint_dir, f"{datapoint_name}.xlsx")
-            df.to_excel(excel_file_path, index=False)
-            
-            print("Data saved to", excel_file_path)
-        else:
-            print("No valid data found in the response.")
+
+        df = pd.DataFrame(data)
+        
+        # Save the DataFrame to an Excel file
+        excel_file_path = os.path.join(datapoint_dir, f"{datapoint_name}.xlsx")
+        df.to_excel(excel_file_path, index=False)
+        
+        print("Data saved to", excel_file_path)
+    else:
+        print("No valid data found in the response.")
 
         print("Files created at", datapoint_dir)
 
