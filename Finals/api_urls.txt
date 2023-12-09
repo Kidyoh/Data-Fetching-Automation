@@ -1,1 +1,2 @@
-https://api.worldbank.org/v2/countries/ETH/indicators/EG.ELC.RNWX.ZS
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FTOT.KD.ZG
+https://api.worldbank.org/v2/countries/ETH/indicators/NE.GDI.FPRV.ZS
